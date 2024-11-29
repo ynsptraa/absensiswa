@@ -1,0 +1,34 @@
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:padding="16dp">
+
+    <EditText
+        android:id="@+id/etNamaSiswa"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:hint="Masukan Nama Anda"
+        android:inputType="textPersonName"
+    android:padding="16dp"
+        android:layout_marginTop="40dp"
+        android:textColor="#000000" />
+
+    <Spinner
+        android:id="@+id/spinnerKelas"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp"
+        android:entries="@array/kelas_array"/>
+
+
+
+    <!-- Spinner Status -->
+    <Spinner
+        android:id="@+id/spinnerStatus"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:padding="18dp"
+        android:entries="@array/status_kehadiran"/>
+</LinearLayout>

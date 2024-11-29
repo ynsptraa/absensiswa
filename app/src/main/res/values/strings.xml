@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Absensi Siswa</string>
+    <string-array name="kelas_array">
+        <item>Pilih Kelas</item>
+        <item>RPL</item>
+        <item>RPL LAGI</item>
+        <item>RPL TERUS</item>
+    </string-array>
+    <string name="status_siswa">status siswa</string>
+    <string-array name="status_kehadiran">
+        <item>Hadir</item>
+        <item>Sakit</item>
+        <item>Izin</item>
+    </string-array>
+
+</resources>

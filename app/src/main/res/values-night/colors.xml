@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Colors for Dark Mode -->
+    <color name="black">#FFFFFFFF</color> <!-- White for text in dark background -->
+    <color name="white">#FF000000</color> <!-- Black for text in light elements -->
+    <color name="purple_500">#FFBB86FC</color> <!-- Softer purple for dark theme -->
+    <color name="hadir_color">#81C784</color> <!-- Softer green for dark theme -->
+    <color name="izin_color">#FFF59D</color> <!-- Softer yellow for better contrast -->
+    <color name="sakit_color">#64B5F6</color> <!-- Softer blue for readability -->
+</resources>

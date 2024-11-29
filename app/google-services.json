@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "503487664815",
+    "project_id": "absensiswa22-dcf48",
+    "storage_bucket": "absensiswa22-dcf48.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:503487664815:android:bf8bd3fdead8a1fc357a5a",
+        "android_client_info": {
+          "package_name": "com.yonasputra.absensiswa"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDIMbzc7FA36y9QJRcPL-eAQtXoNHJS4E"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
